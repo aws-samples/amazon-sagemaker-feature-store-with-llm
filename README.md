@@ -1,15 +1,20 @@
-## My Project
+## Personalize your LLM applications with Amazon SageMaker Feature Store 
 
-TODO: Fill this README out!
 
-Be sure to:
+The illustration
 
-* Change the title in this README
-* Edit your repository description on GitHub
+<div align="center">
+    <img width=600 src="imgs/illustration.png" /><figcaption> Illustration</figcaption>
+</div>
 
-## Security
+The architecture
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+<div align="center">
+    <img width=600 src="imgs/architectureLLMRec.drawio.png" /><figcaption> Architecture</figcaption>
+</div>
+
+
+
 
 ## License
 
