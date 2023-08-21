@@ -33,6 +33,9 @@ The application follows these steps to provide responses to one user’s recomme
 </div>
 
 
+To get started, please follow the [feature_store.ipynb](https://github.com/aws-samples/amazon-sagemaker-feature-store-with-llm/blob/main/feature_store.ipynb) for feature store data ingestion and fetching the user profile, once setup. Then [agent_chain.ipynb](https://github.com/aws-samples/amazon-sagemaker-feature-store-with-llm/blob/main/agent_chain.ipynb) provide the step-by-step walkthrough for our generative AI application. 
+
+
 
 
 ## License
